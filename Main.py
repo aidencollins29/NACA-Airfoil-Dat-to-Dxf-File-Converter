@@ -61,5 +61,5 @@ EOF
 """
 
 
-with open("DxfFile/AirFoil.dxf", "w") as file:
+with open("AirFoil.dxf", "w") as file:
     file.write(DXF)
